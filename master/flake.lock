@@ -11,11 +11,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1647063256,
-        "narHash": "sha256-Jq7gpJUcRCENxSn0MU+S2NKT+sgSk0QX+nrDI3UHbNw=",
+        "lastModified": 1647112482,
+        "narHash": "sha256-kvNZNvW7/N+Tb6+5TrL921xQpyy+clm0mrdO9vY3rIk=",
         "owner": "nim-nix-pkgs",
         "repo": "darwin",
-        "rev": "767e5f552df7cd876bff83ad7c4019b9e677cab0",
+        "rev": "3a3b439217e3f0a19086ce30d4df44c16c5bf719",
         "type": "github"
       },
       "original": {
@@ -38,13 +38,20 @@
         "src-darwin-master": "src-darwin-master"
       },
       "locked": {
-        "narHash": "sha256-ZjsMK3y+06FUPDRhPMLTdz2kD4A2ialG4AfKbmPH9w0=",
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "lastModified": 1647112482,
+        "narHash": "sha256-kvNZNvW7/N+Tb6+5TrL921xQpyy+clm0mrdO9vY3rIk=",
+        "owner": "nim-nix-pkgs",
+        "repo": "darwin",
+        "rev": "3a3b439217e3f0a19086ce30d4df44c16c5bf719",
+        "type": "github"
       },
       "original": {
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "darwin",
+        "type": "github"
       }
     },
     "flakeNimbleLib": {
