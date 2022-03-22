@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-plists-master.flake = false;
+  inputs.src-plists-master.ref   = "refs/heads/master";
   inputs.src-plists-master.owner = "yglukhov";
-  inputs.src-plists-master.ref   = "master";
   inputs.src-plists-master.repo  = "plists";
   inputs.src-plists-master.type  = "github";
   
