@@ -11,7 +11,6 @@
   inputs.src-plists-master.ref   = "refs/heads/master";
   inputs.src-plists-master.owner = "yglukhov";
   inputs.src-plists-master.repo  = "plists";
-  inputs.src-plists-master.dir   = "";
   inputs.src-plists-master.type  = "github";
   
   inputs."darwin".owner = "nim-nix-pkgs";
